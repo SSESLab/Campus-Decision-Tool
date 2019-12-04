@@ -1,4 +1,4 @@
-Date,Coolng_Load,kWh,Heating_Load
+Date,Cooling_Load,kWh,Heating_Load
 1/1/2018 0:00,0.00,1,419840.00
 1/1/2018 1:00,0.00,0.5,420352.00
 1/1/2018 2:00,0.00,0.75,220160.00
