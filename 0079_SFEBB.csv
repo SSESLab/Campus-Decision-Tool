@@ -1,4 +1,4 @@
-Column1,Cooling_Load (kBtu),Cooling_Load,W,kW,Heating_Load,Heating_Load(kBtu),
+Date,Cooling_Load (kBtu),Cooling_Load,W,kW,Heating_Load,Heating_Load(kBtu),
 2018/01/01 0:00,96,96000,154418.9375,154.4189375,808000,808,
 2018/01/01 1:00,92,92000,153915.2656,153.9152656,832000,832,
 2018/01/01 2:00,88,88000,154684.0469,154.6840469,904000,904,
