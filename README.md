@@ -19,6 +19,7 @@ Instructions (Python File):
 1) Download the anaconda notebook 
 2) Download the desired weather file an save it in the 'Documents' folder
 3) Download the template files and save it in 'Documents' folder
-3) Run the code.  Be sure to have all helper libraries installed
+4) Download the cooling tower Neural Network "Cooling_Tower_NN.h5" and sae it in the 'Documents' folder
+5) Run the code.  Be sure to have all helper libraries installed
 
 Cite: ...
