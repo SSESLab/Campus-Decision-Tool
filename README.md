@@ -23,4 +23,5 @@ Instructions (Google Colab):
 2) Open the code in Google Colab
 3) Run the code
 
-Cite: ...
+# Citation
+To cite this work: Legorburu, G., & Smith, A. D. (2020). Incorporating observed data into early design energy models for life cycle cost and carbon emissions analysis of campus buildings. Energy and Buildings, 224, 110279. https://doi.org/10.1016/j.enbuild.2020.110279
